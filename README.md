@@ -1,7 +1,7 @@
 <div align="center">
 <img src="hello_friend.gif" width="50%"/>
 
-<p align="justify">
+<p>
 Self-taught backend developer | JS and Node.js
 </p>
 
