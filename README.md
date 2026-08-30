@@ -1,7 +1,9 @@
 <div align="center">
 <img src="hello_friend.gif" width="50%"/>
-</div>
-<div align="justify">
+
+<p align="justify">
+Self-taught backend developer | JS and Node.js
+</p>
 
 <a href="https://discord.com/users/939726013817028639">
 <img src="https://img.shields.io/badge/Discord-Kiwer-7289da?style=for-the-badge&logo=discord">
@@ -13,9 +15,7 @@
 
 </div>
 <p></p>
-<p align="justify">
-Self-taught backend developer | JS and Node.js
-</p>
+
 
 ## My stack ⚙️
 
