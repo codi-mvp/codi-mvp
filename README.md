@@ -1,15 +1,99 @@
-# 💫 About Me:
+<img src="hello_friend.gif"/>
+<div align="justify">
+
+<a href="https://discord.com/users/939726013817028639">
+<img src="https://img.shields.io/badge/Discord-Kiwer-7289da?style=for-the-badge&logo=discord">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mrq.backend@gmail.com">
+<img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+</a>
+
+</div>
+<p></p>
+<p align="justify">
 Self-taught backend developer | JS and Node.js
+</p>
 
+## My stack ⚙️
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrq.backend@gmail.com) 
+<table>
+    <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="css" />
+      <br>nodeJS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="bootstrap" />
+      <br>Gitlab
+    </td>
+  </tr>
+</table>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=codi-mvp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codi-mvp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Extra skills
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vscode-mvp&no-frame=false&no-bg=true&margin-w=4)
+> I have limited experience for now, but I am always learning extra things
+
+[![My Skills](https://skillicons.dev/icons?i=apple,flutter,bash,figma,git,npm,postman,ubuntu,unity,vscode,windows,kali&perline=6)]
+
+## Github Stats 📊
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codi-mvp&theme=transparent" alt="Profile Details" />
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codi-mvp&theme=transparent&utcOffset=7" alt="Productive time card" />
+    </td>
+    <td>
+      <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=codi-mvp&theme=tokyonight" alt="Stats" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=codi-mvp&theme=tokyonight" alt="Stats"
