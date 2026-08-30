@@ -96,4 +96,4 @@ Self-taught backend developer | JS and Node.js
   </tr>
 </table>
 
-<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=codi-mvp&theme=tokyonight" alt="Stats"
+
