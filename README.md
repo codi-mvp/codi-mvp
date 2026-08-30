@@ -1,4 +1,4 @@
-<img src="hello_friend.gif"/>
+<img src="hello_friend.gif" width="50%"/>
 <div align="justify">
 
 <a href="https://discord.com/users/939726013817028639">
