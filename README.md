@@ -2,7 +2,7 @@
 <img src="hello_friend.gif" width="50%"/>
 
 <p>
-**Self-taught backend developer | JS and Node.js**
+Self-taught backend developer | JS and Node.js
 </p>
 
 <a href="https://discord.com/users/939726013817028639">
