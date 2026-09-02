@@ -70,7 +70,7 @@ Self-taught backend developer | JS and Node.js
 
 > I have limited experience for now, but I am always learning extra things
 
-![My Skills](https://skillicons.dev/icons?i=apple,flutter,bash,figma,npm,ubuntu,unity,vscode,windows,kali&perline=6)
+![My Skills](https://skillicons.dev/icons?i=apple,flutter,bash,figma,npm,ubuntu,unity,vscode,windows,kali)
 
 ## Github Stats 📊
 
