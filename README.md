@@ -74,6 +74,10 @@ Self-taught backend developer | JS and Node.js
 
 ## Github Stats 📊
 
+# Commit history
+
+<img src="https://platane.github.io/snk/" />
+
 <table>
   <tr>
     <td colspan="2" align="center">
