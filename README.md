@@ -55,10 +55,6 @@ Self-taught backend developer | JS and Node.js
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
@@ -66,10 +62,6 @@ Self-taught backend developer | JS and Node.js
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="css" />
       <br>nodeJS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="bootstrap" />
-      <br>Gitlab
     </td>
   </tr>
 </table>
