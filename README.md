@@ -1,5 +1,5 @@
 <div align="center">
-<img src="hello_friend.gif" width="50%"/>
+<img src="mrq.png" />
 
 <p>
 Self-taught backend developer | JS and Node.js
