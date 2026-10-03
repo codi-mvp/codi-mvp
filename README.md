@@ -1,6 +1,7 @@
 <div align="center">
-<img src="hello_friend.png"/>
+  <img src="hello_friend.png" />
 </div>
+<br>
 <div align="center">
 
 <a href="https://discord.com/users/939726013817028639">
@@ -83,7 +84,7 @@ Self-taught backend developer | JS and Node.js
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=codi-mvp&hide_border=true"/>
 
-![Language Stats](https://raw.githubusercontent.com/codi-mvp/WakaDash/main/results/lang_stats.svg)
+<img src="https://gitlyy.vercel.app/api/languages?username=codi-mvp&layout=compact&hide_border=true"/>
 
 <table>
   <tr>
