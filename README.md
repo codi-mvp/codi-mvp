@@ -14,7 +14,6 @@
 <p align="justify">
 Self-taught backend developer | JS and Node.js
 </p>
-
 ## My stack ⚙️
 
 <table>
@@ -79,6 +78,8 @@ Self-taught backend developer | JS and Node.js
 [![My Skills](https://skillicons.dev/icons?i=apple,flutter,bash,figma,git,npm,postman,ubuntu,unity,vscode,windows,kali&perline=6)]
 
 ## Github Stats 📊
+
+![mRq's GitHub stats](https://github-readme-stats.vercel.app/api?username=codi-mvp)
 
 <table>
   <tr>
