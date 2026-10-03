@@ -83,7 +83,7 @@ Self-taught backend developer | JS and Node.js
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=codi-mvp&hide_border=true"/>
 
-![Language Stats](https://raw.githubusercontent.com/<codi-mvp>/WakaDash/main/results/lang_stats.svg)
+![Language Stats](https://raw.githubusercontent.com/codi-mvp/WakaDash/main/results/lang_stats.svg)
 
 <table>
   <tr>
