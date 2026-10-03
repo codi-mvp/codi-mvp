@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 
-<a href="https://discord.com/users/939726013817028639">
+<a href="https://discord.com/users/1552705374555996181">
 <img src="https://img.shields.io/badge/Discord-Kiwer-7289da?style=for-the-badge&logo=discord">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
