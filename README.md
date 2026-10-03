@@ -1,5 +1,5 @@
 <img src="hello_friend.gif"/>
-<div align="justify">
+<div align="center">
 
 <a href="https://discord.com/users/939726013817028639">
 <img src="https://img.shields.io/badge/Discord-Kiwer-7289da?style=for-the-badge&logo=discord">
