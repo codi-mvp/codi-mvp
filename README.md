@@ -1,4 +1,4 @@
-<img src="hello_friend.gif"/>
+<img align="center" src="hello_friend.png"/>
 <div align="center">
 
 <a href="https://discord.com/users/939726013817028639">
@@ -79,7 +79,11 @@ Self-taught backend developer | JS and Node.js
 
 ## Github Stats 📊
 
-![mRq's GitHub stats](https://github-readme-stats.vercel.app/api?username=codi-mvp)
+<img src="https://gitlyy.vercel.app/api/contribution?username=codi-mvp&hide_border=true"/>
+
+![Language Stats](https://raw.githubusercontent.com/codi-mvp/WakaDash/main/results/lang_stats.svg)
+
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=codi-mvp)
 
 <table>
   <tr>
