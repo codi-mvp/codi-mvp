@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hello_friend.png" />
+<img src="hello.svg">
 </div>
 <br>
 <div align="center">
