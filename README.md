@@ -24,7 +24,7 @@
 <p align="justify">
 Self-taught backend developer | JS and Node.js
 </p>
-## My stack ⚙️
+<h1>My stack ⚙️</h1>
 
 <table>
     <tr>
