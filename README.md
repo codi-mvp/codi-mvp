@@ -45,7 +45,7 @@ Self-taught backend developer | JS and Node.js
       <br>Github
     </td>
           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=restapi" width="65" height="65" alt="Rest API" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
     <td align="center" width="96">
