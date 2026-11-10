@@ -29,11 +29,11 @@ Self-taught backend developer | JS and Node.js
 <table>
     <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
@@ -41,11 +41,11 @@ Self-taught backend developer | JS and Node.js
       <br>nodeJS
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://skillicons.dev/icons?i=restapi" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
     <td align="center" width="96">
